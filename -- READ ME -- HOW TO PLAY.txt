@@ -1,0 +1,15 @@
+Rules:
+
+1. Click Roll dice to roll a pair of dice
+
+2. Whatever the dice land on will be added to your round score (Big Number)
+
+3. Click hold to add your round score to your current score and end your turn
+
+4. If you roll a 1, all of your round score will be deleted and your turn will end
+
+5. If you roll 2 6's in a row all of your current score will be deleted and your turn will end
+
+6. The winner will be the first player who's current score reaches the score to win (Which can be changed to any positive value before the first round, default is 100)
+
+7. Have Fun!
